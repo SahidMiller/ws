@@ -1,6 +1,6 @@
 {
   "name": "@network-stackify/ws",
-  "version": "7.5.2",
+  "version": "7.5.3",
   "description": " Fork of https://github.com/websockets/ws package with opts.get and opts.createConnection",
   "main": "index.js",
   "engines": {
